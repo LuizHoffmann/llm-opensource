@@ -1,5 +1,10 @@
+streamlit
 langchain
 langchain-community
+langchain-qdrant
+langchain-ollama
+langchain-huggingface
 qdrant-client
 sentence-transformers
-pypdf
+pypdf 
+python-dotenv
