@@ -1,10 +1,20 @@
+# --- Streamlit ---
 streamlit
+
+# --- LangChain Core & Integrations ---
 langchain
-langchain-community
+langchain_community
+langchain-openai
 langchain-qdrant
-langchain-ollama
-langchain-huggingface
+
+# --- LangGraph ---
+langgraph
+
+# --- Vector Database Client ---
 qdrant-client
-sentence-transformers
-pypdf 
+
+# --- Document Loaders Dependencies ---
+pypdf # For loading PDF files
+
+# --- Environment Variables ---
 python-dotenv
